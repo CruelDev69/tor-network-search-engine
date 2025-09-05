@@ -21,9 +21,7 @@ DarkWeb Search Engine is a privacy-focused tool designed to help you explore **l
 
 ---
 
-<p align="center"><img width="600px" src="./Assets/dark_mode.PNG"/></p>
-
-<p align="center"><img width="600px" src="./Assets/light_mode.PNG"/></p>
+<p align="center"><img width="600px" src="https://us-east-1.tixte.net/uploads/the-shrunken-swing.has.rocks/Screenshot_2025-09-05_150553.png"/></p>
 
 ---
 
