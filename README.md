@@ -27,9 +27,7 @@ DarkWeb Search Engine is a privacy-focused tool designed to help you explore **l
 
 # Note:
 
-* Use responsibly and give credit to TheVUnit.
 * It is suggested to **block queries** that could cause legal trouble. How you use it is your responsibility.
-* Skidding this code or claiming it as your own is not allowed.
 
 ---
 
